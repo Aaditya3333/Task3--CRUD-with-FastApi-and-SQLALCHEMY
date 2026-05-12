@@ -179,25 +179,3 @@ SQLALCHEMY_DATABASE_URL = "postgresql://username:password@localhost/database_nam
 
 3. **Port Already in Use**
    - Change port: `uvicorn main:app --port 8001`
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
-## 🤝 Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Add tests if applicable
-5. Submit a pull request
-
-## 📞 Support
-
-For issues and questions:
-- Open an issue on GitHub
-- Check the API documentation at `/docs`
-
----
-
-**Built with ❤️ using FastAPI, SQLAlchemy, and PostgreSQL**
